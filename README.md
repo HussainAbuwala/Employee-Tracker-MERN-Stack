@@ -17,7 +17,7 @@ The Employee Tracker app is designed to streamline the process of managing emplo
 ## Tools & Languages Used
 
 1. HTML5
-2. CSS3
+2. Bootstrap
 3. JavaScript
 4. React
 5. MongoDB
