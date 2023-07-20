@@ -24,3 +24,4 @@ The Employee Tracker app is designed to streamline the process of managing emplo
 6. Node.js
 7. Express.js
 8. GitHub
+9. Docker
